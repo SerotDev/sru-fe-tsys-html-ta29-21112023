@@ -1,0 +1,21 @@
+body {
+  margin: 50px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 16px;
+}
+
+table{
+  border: 1px solid black;
+  border-radius: 2px;
+}
+
+th, td {
+  border-spacing: 2px;
+  border: 1px solid black;
+  border-radius: 2px;
+}
+
+.bold-row {
+  font-weight: bold;
+}
+

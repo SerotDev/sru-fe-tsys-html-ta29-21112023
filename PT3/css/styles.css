@@ -1,0 +1,42 @@
+body {
+  margin: 10px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+}
+
+h1 {
+  font-size: 0.9rem;
+}
+
+table {
+  width: 100%;
+  background-color: lightgray;
+  border-spacing: 2px;
+  border: 1px solid black;
+  box-shadow: 1px 1px 2px black;
+}
+
+td {
+  background-color: white;
+  border: 1px solid black;
+}
+
+#cell1 {
+  background-color: lightgreen;
+}
+
+#cell2 {
+  background-color: cyan;
+  text-align: left;
+}
+
+#cell3,#cell5,#cell8 {
+  color: red;
+}
+
+#cell6 {
+  background-color: violet;
+  text-align: right;
+}
